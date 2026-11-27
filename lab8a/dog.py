@@ -1,8 +1,8 @@
 # Add comments before you do anything else.
 #--------------------------------
 #!/usr/bin/env python3
-# Author:
-# Date:
+# Author: Hongbin
+# Date: 2026/11/23
 # Purpose: class Dog
 #--------------------------------
 

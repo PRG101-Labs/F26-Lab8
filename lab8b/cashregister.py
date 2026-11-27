@@ -28,7 +28,8 @@ class CashRegister:
         self._totalPrice = 0.0
         
     #complete the following undo() method
-    def undo(self):
-        pass
+    def undo(self, price):
+        self._itemCount -= 1
+        self._totalPrice -= price
         
 
